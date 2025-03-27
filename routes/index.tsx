@@ -1,7 +1,7 @@
 const Page = () => {
   return (
     <div>
-      <h1>hola mundo</h1>
+      <h1>hola mundo!!</h1>
     </div>
   );
 }
